@@ -1,2 +1,4 @@
-test #ignore the test file
-*.tmp 
+#ignore vs generated files
+*.obj
+*.exe
+*.sdf
